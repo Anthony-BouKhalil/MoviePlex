@@ -133,7 +133,7 @@
     
     <a href="movies.php?fn=coming_soon" class="btn btn-danger">Coming Soon</a>
     
-    <a href="https://movie-plex.000webhostapp.com/movies.html" class="btn btn-danger">All Movies</a>
+    <a href="https://movie-plex-app.000webhostapp.com/movies.html" class="btn btn-danger">All Movies</a>
 
     <br><br>
     <?php
