@@ -1,3 +1,3 @@
 # MoviePlex
 Movie Theatre Website
-Available on: https://movie-plex-app.000webhostapp.com
+Available on: https://movieplex-app.000webhostapp.com
